@@ -1,6 +1,7 @@
-- Hello i occasionally use this site for doing whatever
-- i make mindustry mod (https://github.com/helpll/helplinedustry)
+[See this amazing github page showing all of my stuff!](https://delta-airlines-ig.github.io/Delta-Airlines-ig/)
 
-- also check out my itch.io (https://deltav2.itch.io)
+#Amazingly formatted github page!!!! :3
 
-- https://delta-airlines-ig.github.io/Dash-With-The-Fireball-Etc/ << Actually pretty alright game
+I use this site for doing whatever (usually for making games in unity)
+Check out my [itch.io](https://deltav2.itch.io)!
+[Also here's a "mirror" of one of my games](https://delta-airlines-ig.github.io/Dash-With-The-Fireball-Etc/ )
