@@ -3,3 +3,5 @@
 - I use this site for doing whatever (usually for making games in unity)
 - Check out my [itch.io](https://deltav2.itch.io)!
 - [Also here's a "mirror" of one of my games](https://delta-airlines-ig.github.io/Dash-With-The-Fireball-Etc/ )
+
+![Gaming](canadian-dollar-cad-1024x723.webp)
